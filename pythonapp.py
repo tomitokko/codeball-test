@@ -1,2 +1,2 @@
-def main():
+def name():
     print("cool")
