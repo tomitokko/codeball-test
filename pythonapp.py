@@ -1,2 +1,2 @@
 def main():
-    print("cool")
+    print("cool new")
