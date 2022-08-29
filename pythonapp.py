@@ -1,5 +1,5 @@
 def name():
     print("cool")
 
-def add():
+def define():
     print('')
